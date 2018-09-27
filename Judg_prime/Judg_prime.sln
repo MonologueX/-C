@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Judg_prime", "Judg_prime\Judg_prime.vcxproj", "{BC4EAC52-CE79-4F40-A71C-5C3B232EA2B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4EAC52-CE79-4F40-A71C-5C3B232EA2B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC4EAC52-CE79-4F40-A71C-5C3B232EA2B2}.Debug|Win32.Build.0 = Debug|Win32
+		{BC4EAC52-CE79-4F40-A71C-5C3B232EA2B2}.Release|Win32.ActiveCfg = Release|Win32
+		{BC4EAC52-CE79-4F40-A71C-5C3B232EA2B2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
